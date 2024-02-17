@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='container mt-10'>
       <header className='flex justify-between items-center mb-5'>
-        <img className='w-20' src="images/paris.png" alt="Paris" />
+        <img className='w-20' src="images/paris.jpg" alt="Paris" />
         <nav className='flex justify-end'>
           <NavLink className='mr-3' style={({isActive}) => ({fontWeight: isActive ? 'bold' : 'normal'})} to='/'>Accueil</NavLink>
           <NavLink className='mr-3' style={({isActive}) => ({fontWeight: isActive ? 'bold' : 'normal'})} to='/ressources'>Ressources</NavLink>
