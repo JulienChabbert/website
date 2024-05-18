@@ -9,7 +9,6 @@ export const Home = () => {
             <About/>
             <YoutubeVideo id="Wi4HyNsVSJ8"/>
             <YoutubeVideo id="aFV3NaS5nhk"/>
-            <DailymotionVideo id="x3lnp8j?"/>
             <SocialLinks/>
         </main>
     )
