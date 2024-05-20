@@ -63,7 +63,7 @@ export const Divert = () => {
                 </div>
                 <br />
                 <div>
-                    Ep12 : arnosaur
+                    Ep12 : Carnosaur
                     <DailymotionVideo id="x60gir3"/>
                 </div>
                 <br />

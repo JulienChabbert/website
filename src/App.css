@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+ /*
+nav{
+  pointer-events: none;
+  cursor: default;
+}
+*/
+nav, img{
+  visibility: hidden;
+}
 
 @keyframes App-logo-spin {
   from {
