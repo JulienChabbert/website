@@ -8,12 +8,10 @@ export const Home = () => {
     return (
         
         <main>
-            {/* 
             <About/>
             <YoutubeVideo id="Wi4HyNsVSJ8"/>
             <YoutubeVideo id="aFV3NaS5nhk"/>
-            <SocialLinks/> */}
-            <Works/>
+            <SocialLinks/>
         </main>
     )
 }
